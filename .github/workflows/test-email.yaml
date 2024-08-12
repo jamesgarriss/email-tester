@@ -20,7 +20,7 @@ jobs:
           # email body as text
           body: ${{ github.job }} job in worflow ${{ github.workflow }} of ${{ github.repository }} has ${{ job.status }}
           # comma-separated string, send email to
-          to: james.garriss@gmail.com
+          to: james.garriss@gmail.com, jgarriss@mitre.org
           # from email name
           from: ScubaGear Notifier
   
