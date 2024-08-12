@@ -1,3 +1,3 @@
 # Email Tester
 
-This is a test using the email notify action.  It uses Gmail.
+This is a test using the email notify action.  It uses Gmail.  Which is hard.
